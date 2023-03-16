@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "prefix": "/",
+  "servers": [
+    "SERVER_ID_1",
+    "SERVER_ID_2",
+    "SERVER_ID_3"
+  ]
+}

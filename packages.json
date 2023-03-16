@@ -1,0 +1,15 @@
+{
+  "name": "Discord Bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that has been created by Harry!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Harry",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^13.6.0"
+  }
+}
