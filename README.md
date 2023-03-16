@@ -17,8 +17,8 @@ The bot includes the following features:
 
 To use this bot, you will need to have Node.js and npm installed on your machine.
 
-1. Clone this repository: `git clone https://github.com/your-username/discord-bot.git`
-2. Navigate to the project directory: `cd discord-bot`
+1. Clone this repository.
+2. Navigate to the project directory.
 3. Install dependencies: `npm install`
 4. Set up the bot by editing the `config.json` file (see below)
 5. Start the bot: `npm start`
