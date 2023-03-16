@@ -1,0 +1,18 @@
+{
+  "token": "your-bot-token",
+  "servers": [
+    {
+      "id": "server1Id",
+      "name": "Server 1"
+    },
+    {
+      "id": "server2Id",
+      "name": "Server 2"
+    },
+    {
+      "id": "server3Id",
+      "name": "Server 3"
+    }
+  ],
+  "errorChannelId": "your-error-channel-id"
+}
