@@ -31,4 +31,4 @@ To configure the bot, edit the current `config.json` file in the project directo
 To use the bot, simply type one of the supported commands in any text channel on a Discord server where the bot is a member. For example, to use the /globalban command, type /globalban <user> where <user> is the username or ID of the user you want to ban.
 
 ## Credits
-This bot was created by Your Name.
+This bot was created by Harry.
